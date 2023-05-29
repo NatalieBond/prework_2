@@ -1,0 +1,70 @@
+commit d1c0bb7b796862abc1cfe9dd34968cafa4299770
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Wed May 24 20:04:13 2023 +0100
+
+    Revert "removed one line from the chorus-1.txt"
+    
+    This reverts commit d8eea7025bc641da4cf4656254dcca54c8368568.
+
+diff --git a/chorus-1.txt b/chorus-1.txt
+index a808aa7..5570ff6 100644
+--- a/chorus-1.txt
++++ b/chorus-1.txt
+@@ -2,4 +2,5 @@ Never gonna give you up
+ Never gonna let you down
+ Never gonna run around and desert you
+ Never gonna make you cry
+-Never gonna say goodbye
+\ No newline at end of file
++Never gonna say goodbye
++Never gonna tell a lie and hurt you
+\ No newline at end of file
+
+commit d8eea7025bc641da4cf4656254dcca54c8368568
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 23:05:43 2023 +0100
+
+    removed one line from the chorus-1.txt
+
+diff --git a/chorus-1.txt b/chorus-1.txt
+index 5570ff6..a808aa7 100644
+--- a/chorus-1.txt
++++ b/chorus-1.txt
+@@ -2,5 +2,4 @@ Never gonna give you up
+ Never gonna let you down
+ Never gonna run around and desert you
+ Never gonna make you cry
+-Never gonna say goodbye
+-Never gonna tell a lie and hurt you
+\ No newline at end of file
++Never gonna say goodbye
+\ No newline at end of file
+
+commit 64807031c8462ee97a1723efd28f0eb1890870e3
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 21:43:42 2023 +0100
+
+    add first chorus
+
+diff --git a/chorus-1.txt b/chorus-1.txt
+index e69de29..5570ff6 100644
+--- a/chorus-1.txt
++++ b/chorus-1.txt
+@@ -0,0 +1,6 @@
++Never gonna give you up
++Never gonna let you down
++Never gonna run around and desert you
++Never gonna make you cry
++Never gonna say goodbye
++Never gonna tell a lie and hurt you
+\ No newline at end of file
+
+commit 75401ff138f44f9b9e2426ce502fb5a1dba63f22
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 21:42:29 2023 +0100
+
+    added chorus-1
+
+diff --git a/chorus-1.txt b/chorus-1.txt
+new file mode 100644
+index 0000000..e69de29

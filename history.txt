@@ -1,0 +1,115 @@
+commit 599037717d36046312880d7e6f734a39383a85af
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Wed May 24 20:08:16 2023 +0100
+
+    removed repeating files
+
+commit d1c0bb7b796862abc1cfe9dd34968cafa4299770
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Wed May 24 20:04:13 2023 +0100
+
+    Revert "removed one line from the chorus-1.txt"
+    
+    This reverts commit d8eea7025bc641da4cf4656254dcca54c8368568.
+
+commit d8eea7025bc641da4cf4656254dcca54c8368568
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 23:05:43 2023 +0100
+
+    removed one line from the chorus-1.txt
+
+commit 0d8e55bf6e9e1fbcd0c15ea5b296490f20eb8f23
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 23:02:55 2023 +0100
+
+    replaced the third part of chorus with chorus-3.txt
+
+commit a608d58471e614dd517b75876b206ea877606019
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 23:01:30 2023 +0100
+
+    added the third part of chorus
+
+commit fcba1a06c33f3a959c02359f9d91932e0dfbaad3
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 23:00:23 2023 +0100
+
+    replaced third part of verse with verse-3.txt
+
+commit 64ec0d02b08dbce2a0c8ade0993325aa4ba916c0
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 22:59:31 2023 +0100
+
+    added third part of verse
+
+commit 077a7ae1e4bb33ebfc9378c9886538d75a618bdc
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 22:58:20 2023 +0100
+
+    replaced second part of chorus with chorus-2.txt
+
+commit 44984772d9381d9b2792f20022c186214a6a0e44
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 22:57:46 2023 +0100
+
+    added second part of chorus
+
+commit 111d416b82a78aeb97626b70ed4566ba579fed8b
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 22:55:21 2023 +0100
+
+    replaced second verse with verse-2.txt
+
+commit 3847f0def3beb4013f5fdd88f0bf1f7eaaca43bd
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 22:54:43 2023 +0100
+
+    add second verse
+
+commit 59a1c6eea66f52e276df0bbf794c901262eea9d1
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 22:51:27 2023 +0100
+
+    replaced first chorus with chuorus-1.txt
+
+commit 8dded48917e17c9fd5a7454be646361310be32ea
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 21:44:21 2023 +0100
+
+    add first verse
+
+commit 64807031c8462ee97a1723efd28f0eb1890870e3
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 21:43:42 2023 +0100
+
+    add first chorus
+
+commit 75401ff138f44f9b9e2426ce502fb5a1dba63f22
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 21:42:29 2023 +0100
+
+    added chorus-1
+
+commit 1283452b5d7429ef2161c34b72be19b9c1abf55b
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 21:37:25 2023 +0100
+
+    added first verse
+
+commit 3773d8d6002ccf0d19d828a54616ef8ce2b348aa
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 21:34:43 2023 +0100
+
+    replaced first verse with verse-1.txt
+
+commit 59db808d7bbe5752648595610434be7600d5326d
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 20:06:40 2023 +0100
+
+    added lyrics
+
+commit cc490050981d525dc0254c4f12924dd2cd4083b5
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 19:41:02 2023 +0100
+
+    add file fav_song.txt

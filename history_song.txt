@@ -1,0 +1,237 @@
+commit 0d8e55bf6e9e1fbcd0c15ea5b296490f20eb8f23
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 23:02:55 2023 +0100
+
+    replaced the third part of chorus with chorus-3.txt
+
+diff --git a/fav_song.txt b/fav_song.txt
+index 00ce64f..448a885 100644
+--- a/fav_song.txt
++++ b/fav_song.txt
+@@ -3,21 +3,4 @@ chorus-1.txt
+ verse-2.txt
+ chorus-2.txt
+ verse-3.txt
+-Never gonna give you up
+-Never gonna let you down
+-Never gonna run around and desert you
+-Never gonna make you cry
+-Never gonna say goodbye
+-Never gonna tell a lie and hurt you
+-Never gonna give you up
+-Never gonna let you down
+-Never gonna run around and desert you
+-Never gonna make you cry
+-Never gonna say goodbye
+-Never gonna tell a lie and hurt you
+-Never gonna give you up
+-Never gonna let you down
+-Never gonna run around and desert you
+-Never gonna make you cry
+-Never gonna say goodbye
+-Never gonna tell a lie and hurt you
+\ No newline at end of file
++chorus-3.txt
+\ No newline at end of file
+
+commit fcba1a06c33f3a959c02359f9d91932e0dfbaad3
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 23:00:23 2023 +0100
+
+    replaced third part of verse with verse-3.txt
+
+diff --git a/fav_song.txt b/fav_song.txt
+index f97d2a2..00ce64f 100644
+--- a/fav_song.txt
++++ b/fav_song.txt
+@@ -2,12 +2,7 @@ verse-1.txt
+ chorus-1.txt
+ verse-2.txt
+ chorus-2.txt
+-We've known each other for so long
+-Your heart's been aching, but you're too shy to say it (to say it)
+-Inside, we both know what's been going on (going on)
+-We know the game and we're gonna play it
+-I just wanna tell you how I'm feeling
+-Gotta make you understand
++verse-3.txt
+ Never gonna give you up
+ Never gonna let you down
+ Never gonna run around and desert you
+
+commit 077a7ae1e4bb33ebfc9378c9886538d75a618bdc
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 22:58:20 2023 +0100
+
+    replaced second part of chorus with chorus-2.txt
+
+diff --git a/fav_song.txt b/fav_song.txt
+index 96d0fb3..f97d2a2 100644
+--- a/fav_song.txt
++++ b/fav_song.txt
+@@ -1,18 +1,7 @@
+ verse-1.txt
+ chorus-1.txt
+ verse-2.txt
+-Never gonna give you up
+-Never gonna let you down
+-Never gonna run around and desert you
+-Never gonna make you cry
+-Never gonna say goodbye
+-Never gonna tell a lie and hurt you
+-Never gonna give you up
+-Never gonna let you down
+-Never gonna run around and desert you
+-Never gonna make you cry
+-Never gonna say goodbye
+-Never gonna tell a lie and hurt you
++chorus-2.txt
+ We've known each other for so long
+ Your heart's been aching, but you're too shy to say it (to say it)
+ Inside, we both know what's been going on (going on)
+
+commit 111d416b82a78aeb97626b70ed4566ba579fed8b
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 22:55:21 2023 +0100
+
+    replaced second verse with verse-2.txt
+
+diff --git a/fav_song.txt b/fav_song.txt
+index 1374509..96d0fb3 100644
+--- a/fav_song.txt
++++ b/fav_song.txt
+@@ -1,11 +1,6 @@
+ verse-1.txt
+ chorus-1.txt
+-We've known each other for so long
+-Your heart's been aching, but you're too shy to say it (say it)
+-Inside, we both know what's been going on (going on)
+-We know the game and we're gonna play it
+-And if you ask me how I'm feeling
+-Don't tell me you're too blind to see
++verse-2.txt
+ Never gonna give you up
+ Never gonna let you down
+ Never gonna run around and desert you
+
+commit 59a1c6eea66f52e276df0bbf794c901262eea9d1
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 22:51:27 2023 +0100
+
+    replaced first chorus with chuorus-1.txt
+
+diff --git a/fav_song.txt b/fav_song.txt
+index 6b80353..1374509 100644
+--- a/fav_song.txt
++++ b/fav_song.txt
+@@ -1,10 +1,5 @@
+ verse-1.txt
+-Never gonna give you up
+-Never gonna let you down
+-Never gonna run around and desert you
+-Never gonna make you cry
+-Never gonna say goodbye
+-Never gonna tell a lie and hurt you
++chorus-1.txt
+ We've known each other for so long
+ Your heart's been aching, but you're too shy to say it (say it)
+ Inside, we both know what's been going on (going on)
+
+commit 3773d8d6002ccf0d19d828a54616ef8ce2b348aa
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 21:34:43 2023 +0100
+
+    replaced first verse with verse-1.txt
+
+diff --git a/fav_song.txt b/fav_song.txt
+index bb4408c..6b80353 100644
+--- a/fav_song.txt
++++ b/fav_song.txt
+@@ -1,9 +1,4 @@
+-We're no strangers to love
+-You know the rules and so do I (do I)
+-A full commitment's what I'm thinking of
+-You wouldn't get this from any other guy
+-I just wanna tell you how I'm feeling
+-Gotta make you understand
++verse-1.txt
+ Never gonna give you up
+ Never gonna let you down
+ Never gonna run around and desert you
+
+commit 59db808d7bbe5752648595610434be7600d5326d
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 20:06:40 2023 +0100
+
+    added lyrics
+
+diff --git a/fav_song.txt b/fav_song.txt
+index e69de29..bb4408c 100644
+--- a/fav_song.txt
++++ b/fav_song.txt
+@@ -0,0 +1,54 @@
++We're no strangers to love
++You know the rules and so do I (do I)
++A full commitment's what I'm thinking of
++You wouldn't get this from any other guy
++I just wanna tell you how I'm feeling
++Gotta make you understand
++Never gonna give you up
++Never gonna let you down
++Never gonna run around and desert you
++Never gonna make you cry
++Never gonna say goodbye
++Never gonna tell a lie and hurt you
++We've known each other for so long
++Your heart's been aching, but you're too shy to say it (say it)
++Inside, we both know what's been going on (going on)
++We know the game and we're gonna play it
++And if you ask me how I'm feeling
++Don't tell me you're too blind to see
++Never gonna give you up
++Never gonna let you down
++Never gonna run around and desert you
++Never gonna make you cry
++Never gonna say goodbye
++Never gonna tell a lie and hurt you
++Never gonna give you up
++Never gonna let you down
++Never gonna run around and desert you
++Never gonna make you cry
++Never gonna say goodbye
++Never gonna tell a lie and hurt you
++We've known each other for so long
++Your heart's been aching, but you're too shy to say it (to say it)
++Inside, we both know what's been going on (going on)
++We know the game and we're gonna play it
++I just wanna tell you how I'm feeling
++Gotta make you understand
++Never gonna give you up
++Never gonna let you down
++Never gonna run around and desert you
++Never gonna make you cry
++Never gonna say goodbye
++Never gonna tell a lie and hurt you
++Never gonna give you up
++Never gonna let you down
++Never gonna run around and desert you
++Never gonna make you cry
++Never gonna say goodbye
++Never gonna tell a lie and hurt you
++Never gonna give you up
++Never gonna let you down
++Never gonna run around and desert you
++Never gonna make you cry
++Never gonna say goodbye
++Never gonna tell a lie and hurt you
+\ No newline at end of file
+
+commit cc490050981d525dc0254c4f12924dd2cd4083b5
+Author: Ruijia <ruijiadong1997@gmail.com>
+Date:   Tue May 23 19:41:02 2023 +0100
+
+    add file fav_song.txt
+
+diff --git a/fav_song.txt b/fav_song.txt
+new file mode 100644
+index 0000000..e69de29
